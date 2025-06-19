@@ -1,2 +1,2 @@
-# testing-git
-Min førest testing av GitHub
+# testing-git første tewting
+# Min førest testing av GitHub
